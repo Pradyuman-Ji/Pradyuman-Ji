@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/gabberpd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabberpd" height="30" width="40" /></a>
 <a href="https://instagram.com/upadhayay.ji.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="upadhayay.ji.0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/upadhayay2002har1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="upadhayay2002har1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/upadhayay2002ha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="upadhayay2002har1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/upadhayay2002harnatad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="upadhayay2002harnatad" height="30" width="40" /></a>
 </p>
 
