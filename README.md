@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman-ji&label=Profile%20views&color=0e75b6&style=flat" alt="pradyuman-ji" /> </p>
 
-- 💬 Ask me about **java,DSA and System Design**
+- 💬 Ask me about **Java,DSA and System Design**
 
 - 📫 How to reach me **upadhayay2002harnatad@gmail.com**
 
